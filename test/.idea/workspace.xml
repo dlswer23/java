@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e1ad242-bbd5-4504-8e51-2cf77f574b42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/no1/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/no1/no4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rWGnOve6aLTzxbHMt1FA2xLEDV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.no4">
+    <configuration name="no1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no1.no1" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no1.no2" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no1.no3" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no1.no4" />
+      <module name="test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.no2" />
+        <item itemvalue="Application.no4" />
+        <item itemvalue="Application.no3" />
+        <item itemvalue="Application.no1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e1ad242-bbd5-4504-8e51-2cf77f574b42" name="Default Changelist" comment="" />
+      <created>1619084599849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619084599849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="266" key="GridCell.Tab.0.bottom" timestamp="1619090857347">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.bottom/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857347" />
+    <state width="1750" height="266" key="GridCell.Tab.0.bottom/0.25.1792.1008@0.25.1792.1008" timestamp="1619089329713" />
+    <state width="1750" height="266" key="GridCell.Tab.0.center" timestamp="1619090857347">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.center/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857347" />
+    <state width="1750" height="266" key="GridCell.Tab.0.center/0.25.1792.1008@0.25.1792.1008" timestamp="1619089329713" />
+    <state width="1750" height="266" key="GridCell.Tab.0.left" timestamp="1619090857347">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.left/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857347" />
+    <state width="1750" height="266" key="GridCell.Tab.0.left/0.25.1792.1008@0.25.1792.1008" timestamp="1619089329712" />
+    <state width="1750" height="266" key="GridCell.Tab.0.right" timestamp="1619090857347">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.right/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857347" />
+    <state width="1750" height="266" key="GridCell.Tab.0.right/0.25.1792.1008@0.25.1792.1008" timestamp="1619089329713" />
+    <state width="1750" height="328" key="GridCell.Tab.1.bottom" timestamp="1619090857341">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="328" key="GridCell.Tab.1.bottom/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857341" />
+    <state width="1750" height="328" key="GridCell.Tab.1.center" timestamp="1619090857341">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="328" key="GridCell.Tab.1.center/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857341" />
+    <state width="1750" height="328" key="GridCell.Tab.1.left" timestamp="1619090857341">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="328" key="GridCell.Tab.1.left/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857341" />
+    <state width="1750" height="328" key="GridCell.Tab.1.right" timestamp="1619090857341">
+      <screen x="0" y="25" width="1792" height="1005" />
+    </state>
+    <state width="1750" height="328" key="GridCell.Tab.1.right/0.25.1792.1005@0.25.1792.1005" timestamp="1619090857341" />
+  </component>
+</project>
